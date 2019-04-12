@@ -1,0 +1,40 @@
+body {
+    color:#ffffff;
+    background-image: url("../images/tor.jpg");
+    text-align: center;
+    font-family: "Comic Sans MS", Times, serif;
+    font-size: 24px;
+    font-style: bold;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #ffffff
+}
+
+table {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto; 
+}
+
+td {
+    font-size: 24px;
+}
+
+.nav-bar {
+    padding-top: 10px;
+    width: 800x;
+    margin-left:auto; 
+    margin-right:auto; 
+}
+
+.nav-bar a {
+    font-size: 32px;
+}
+
+.content-section {
+    width:800px; 
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+}
